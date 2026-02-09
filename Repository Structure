@@ -1,0 +1,9 @@
+powerbi-conversion-rate-quartile-analysis/
+│
+├── README.md
+├── conversion_rate_analysis.sql
+├── Conversion_Rate_Analysis.pbix
+├── screenshots/
+│   └── conversion_rate_dashboard.png
+└── data/
+    └── sample_schema.sql (optional)
